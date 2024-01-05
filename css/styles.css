@@ -14,6 +14,8 @@ body {
 
 /* content */
 
+
+
 .custom-content {
 	padding-bottom: 5px;
 	max-width: 700px;
@@ -233,11 +235,11 @@ body {
     padding: 0 8.4rem;
 }
 .aboutme {
-    padding: 0 8.4rem;
+    padding: 50px; 
 	padding-top: 45px;
 }
 .project {
-    padding: 0 8.4rem;
+    
 	padding-top: 45px;
 }
 .container {
@@ -436,7 +438,12 @@ body {
 	background: rgba(240, 101,36);
 	color: #fff;
   }
-  
+  @media (max-width: 768px) {
+	.navbar-brand {
+	  font-size: 16px;
+	}
+  }
+
   @media (max-width:756px){
 	.wrapper .table{
 	  width: 100%;
