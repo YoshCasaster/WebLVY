@@ -76,6 +76,16 @@ body {
 	/* bs: left top ambyar */
 	box-shadow: 2px 4px 0px 1px rgb(20 20 20);
 }
+.btn-blackk {
+	background-color: #eb8108;
+	padding: 10px 30px;
+	border: 2px solid black;
+	margin: 0px 10px;
+	color: black;
+	border-radius: 5px;
+	/* bs: left top ambyar */
+	box-shadow: 2px 4px 0px 1px rgb(20 20 20);
+}
 
 .btn-blue {
 	background-color: #f1ee0a;
@@ -156,6 +166,16 @@ body {
 
 .card-pink {
 	background-color: #dad4d6;
+	padding: 10px 30px;
+	border: 2px solid black;
+	margin: 0px 10px;
+	color: black;
+	border-radius: 5px;
+	/* bs: left top ambyar */
+	box-shadow: 2px 4px 0px 1px rgb(20 20 20);
+}
+.card-harga {
+	background-color: #ffffff;
 	padding: 10px 30px;
 	border: 2px solid black;
 	margin: 0px 10px;
